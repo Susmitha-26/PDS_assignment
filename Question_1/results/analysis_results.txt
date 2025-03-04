@@ -1,0 +1,2 @@
+Correlation between grip strength and frailty: -0.4758668672668007
+Box plot, scatter plot, grip strength histogram, frailty count plot, and regression plot saved in the visualizations folder.

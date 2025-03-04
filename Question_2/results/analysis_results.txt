@@ -1,0 +1,4 @@
+Correlation between math and reading score: 0.8175796636720546
+Correlation between math and writing score: 0.8026420459498085
+Correlation between reading and writing score: 0.9545980771462476
+Visualizations: math_reading_scatter, gender_math_boxplot, math_score_histogram, test_preparation_countplot, pairplot
